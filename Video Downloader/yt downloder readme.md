@@ -93,4 +93,4 @@ Downloads/
 
 ## Disclaimer
 
-This tool is intended for downloading content you have the right to download (e.g., your own videos, royalty-free content, or content licensed for offline use). Respect YouTube's Terms of Service and copyright law when using this tool.
+This tool is intended for downloading content you have the right to download (e.g., your own videos, royalty-free content, or content licensed for offline use) . Respect YouTube's Terms of Service and copyright law when using this tool.
