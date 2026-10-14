@@ -3,7 +3,7 @@ from yt_dlp import YoutubeDL
 
 # ---------------------------
 # Configuration
-# ----------------------- 
+# --------------------------- 
 
 # FFmpeg location
 FFMPEG_PATH = r"C:\Users\Siam Al Rafi\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.1.2-full_build\bin"
